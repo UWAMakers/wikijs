@@ -1,5 +1,11 @@
-<!-- TITLE: Subcommittees -->
-<!-- SUBTITLE: Understanding the different teams within the Committee -->
+---
+title: Subcommittees
+description: Understanding the different teams within the Committee
+published: true
+date: 2020-06-14T12:25:04.762Z
+tags: 
+editor: markdown
+---
 
 There are two types of teams that may (or may not) be a formal part of the Committee. This includes the four standing subcommittees, and the ad-hoc committees that are created as needed.
 # Standing Subcommittees
@@ -23,11 +29,9 @@ The Operation Team also acts in essence as a support crew for the other teams as
 
 Currently, the positions on this team include:
 
-- [ ] [Facilities Officer](/committee/facilities-officer)
-- [ ] [Logistics Officer](/committee/logistics-officer)
-- [ ] [Fundraising Officer](/committee/fundraising-officer)
-- [ ] [External Relations Officer](/committee/external-relations-officer); and
-- [ ] [OCM](/committee/ocm) (x4)
+-  [Facilities Officer](/committee/facilities-officer)
+-  [Logistics Officer](/committee/logistics-officer)
+-  [OCM](/committee/ocm) (x4)
 
 ## Community Team
 
