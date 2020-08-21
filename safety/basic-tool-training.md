@@ -2,7 +2,7 @@
 title: Basic Tool Training
 description: Accessing Basic Tools in the Makerspace
 published: true
-date: 2020-08-21T10:59:00.718Z
+date: 2020-08-21T11:17:28.456Z
 tags: 
 editor: markdown
 ---
@@ -86,7 +86,8 @@ Make sure you bring a copy of your certificate with you to the in-person worksho
 
 ## Booking Into a Workshop
 
-<a href="https://bookwhen.com/uwamakers" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:315px;height:66px;" /></a>
+See current bookings below.
+<iframe src="https://bookwhen.com/uwamakers/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display:block;border:none;width:100%;height:900px;"></iframe>
 
 Basic tool training workshops are **typically held the last Friday of the month and start at 8am**. Additional workshops may be run (typically in Semester One) if there is demand from students, and availability of staff.
 
