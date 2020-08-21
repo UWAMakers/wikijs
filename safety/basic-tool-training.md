@@ -1,6 +1,13 @@
-<!-- TITLE: Basic Tool Training -->
-<!-- SUBTITLE: Accessing Basic Tools in the Makerspace -->
+---
+title: Basic Tool Training
+description: Accessing Basic Tools in the Makerspace
+published: true
+date: 2020-08-21T10:59:00.718Z
+tags: 
+editor: markdown
+---
 
+<a href="https://bookwhen.com/uwamakers" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:315px;height:66px;" /></a>
 
 Everyone who participates in practical activities involving tools around the *Faculty of Matematical and Engineering Sciences* at UWA are required by the faculty to complete a basic tool training induction. This includes all students working on any project in the Makers Lab. This also applies to using basic hand tools such as screwdrivers, pliers, etc.
 
@@ -79,7 +86,9 @@ Make sure you bring a copy of your certificate with you to the in-person worksho
 
 ## Booking Into a Workshop
 
-Basic tool training workshops are **typically held every second Monday from 9am to 12pm**. Additional workshops may be run (typically in Semester One) if there is demand from students, and availability of staff.
+<a href="https://bookwhen.com/uwamakers" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:315px;height:66px;" /></a>
+
+Basic tool training workshops are **typically held the last Friday of the month and start at 8am**. Additional workshops may be run (typically in Semester One) if there is demand from students, and availability of staff.
 
 > ⚠️&nbsp; **Quota for Workshop Bookings**
 > 
@@ -151,6 +160,8 @@ If you are a member of the Makers who has access to the Makers Lab and has [regi
 > This is important as the SOP may change at any time. Ensuring you read them means we don't have to retrain everyone anytime something small changes.
 > More details about SOPs can be found [here](https://wiki.uwamakers.com/safety/SOP)
 {.is-danger}
+
+<a href="https://bookwhen.com/uwamakers" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:315px;height:66px;" /></a>
 
 <br>
 <br>
