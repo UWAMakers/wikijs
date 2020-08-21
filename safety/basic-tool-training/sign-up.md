@@ -2,7 +2,7 @@
 title: Basic Tool Training Bookings
 description: Sign up for the Basic Tool Training Workshops
 published: true
-date: 2020-08-21T10:50:45.201Z
+date: 2020-08-21T10:50:57.419Z
 tags: 
 editor: markdown
 ---
@@ -14,4 +14,4 @@ Aim to attend one of the workshops that already has people booked in where possi
 # Upcoming Sessions
 -
 
-<iframe src="https://bookwhen.com/uwamakers/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display:block;border:none;width:100%;height:900px;"></iframe>
+<p><iframe src="https://bookwhen.com/uwamakers/iframe" frameborder="0" scrolling="yes" seamless="seamless" style="display:block;border:none;width:100%;height:900px;"></iframe></p>
