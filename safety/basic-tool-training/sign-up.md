@@ -2,7 +2,7 @@
 title: Basic Tool Training Bookings
 description: Sign up for the Basic Tool Training Workshops
 published: true
-date: 2020-08-21T10:50:57.419Z
+date: 2020-08-21T10:53:22.775Z
 tags: 
 editor: markdown
 ---
